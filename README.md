@@ -1,2 +1,2 @@
-# hcl_final_project
-GUI enabled Java/MySQL CRUD application for HCL
+# final_project
+A command-line-based human resource information system that allows a business to better manage their employees.
